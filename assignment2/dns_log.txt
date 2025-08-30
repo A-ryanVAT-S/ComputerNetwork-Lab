@@ -1,0 +1,24 @@
+DNS Query Results for: www.youtube.com
+
+A Records:
+- 142.251.222.110
+- 142.250.207.174
+- 142.251.220.14
+- 142.250.77.46
+- 142.250.70.110
+- 142.251.42.238
+- 142.251.220.78
+- 142.250.71.110
+- 142.250.67.238
+- 142.250.70.78
+- 142.251.43.14
+- 142.250.207.142
+- 142.250.77.78
+- 142.251.222.78
+- 142.251.220.46
+- 172.217.174.78
+
+No MX records found or error: The DNS response does not contain an answer to the question: www.youtube.com. IN MX
+
+CNAME Records:
+- youtube-ui.l.google.com.
